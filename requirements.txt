@@ -1,0 +1,16 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+diffusers>=0.25.0
+accelerate>=0.20.0
+
+# Image processing
+Pillow>=9.5.0
+
+# Additional utilities
+safetensors>=0.3.1
+omegaconf>=2.3.0
+
+# Optional: For better performance
+xformers>=0.0.20  # Optional but recommended for memory efficiency
