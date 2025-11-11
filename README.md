@@ -279,13 +279,13 @@ NAG enhances attention by:
 If you use this code in your research, please cite the relevant papers:
 
 ```bibtex
-@article{tpg2024,
+@article{tpg2025,
   title={Token Perturbation Guidance for Diffusion Models},
   journal={arXiv:2506.10036},
   year={2025}
 }
 
-@article{nag2024,
+@article{nag2025,
   title={Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models},
   journal={arXiv:2505.21179},
   year={2025}
