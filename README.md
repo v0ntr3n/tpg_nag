@@ -53,8 +53,8 @@ DualGuide-SDXL/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/DualGuide-SDXL.git
-cd DualGuide-SDXL
+git clone https://github.com/v0ntr3n/tpg_nag.git
+cd tpg_nag
 ```
 
 2. Install dependencies:
