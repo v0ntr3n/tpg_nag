@@ -281,15 +281,14 @@ If you use this code in your research, please cite the relevant papers:
 ```bibtex
 @article{tpg2024,
   title={Token Perturbation Guidance for Diffusion Models},
-  author={[Authors]},
-  journal={arXiv preprint},
-  year={2024}
+  journal={arXiv:2506.10036},
+  year={2025}
 }
 
 @article{nag2024,
   title={Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models},
   journal={arXiv:2505.21179},
-  year={2024}
+  year={2025}
 }
 ```
 
